@@ -21,7 +21,7 @@ If you use this project for academic work, please consider citing our publicatio
 
 
 [license-shield]: https://img.shields.io/badge/License-MIT-T?style=flat&color=blue
-[license-url]: https://github.com/col-tasas/2025-high-effort-low-gain/blob/main/LICENSE
+[license-url]: https://github.com/col-tasas/2025-convex-active-learning/blob/main/LICENSE
 [webpage-shield-NC]: https://img.shields.io/badge/Webpage-Nicolas%20Chatzikiriakos-T?style=flat&logo=codementor&color=green
 [webpage-url-NC]: https://nchatzikiriakos.github.io
 [webpage-shield-BS]: https://img.shields.io/badge/Webpage-Bowen%20Song-T?style=flat&logo=codementor&color=green
