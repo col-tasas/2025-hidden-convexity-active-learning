@@ -13,6 +13,18 @@ If you use this project for academic work, please consider citing our publicatio
     Hidden Convexity in Active Learning: A Convexified Online Input Design for ARX Systems.
     accepted for CDC 2025, Preprint:arXiv:
 
+## Installation
+To install all relevant packages execute 
+```bash 
+pip install -r requirements.txt
+```
+
+## Running Experiments
+To execute the numerical example navigate to the src folder and execute 
+``` terminal
+python main.py
+```
+This will run the numerical example, generate the correponding plot and safe all relevant data for use in python and matlab. 
 
 ## Contact
 🧑‍💻 Nicolas Chatzikiriakos - [nicolas.chatzikiriakos@ist.uni-stuttgart.de](mailto:nicolas.chatzikiriakos@ist.uni-stuttgart.de)
