@@ -26,7 +26,7 @@ If you use this project for academic work, please consider citing our publicatio
 [webpage-url-NC]: https://nchatzikiriakos.github.io
 [webpage-shield-BS]: https://img.shields.io/badge/Webpage-Bowen%20Song-T?style=flat&logo=codementor&color=green
 [webpage-url-BS]: https://www.ist.uni-stuttgart.de/institute/team/Song-00001/
-[arxiv-shield]: https://img.shields.io/badge/arXiv-2409.18010-t?style=flat&logo=arxiv&logoColor=white&color=red
+[arxiv-shield]: https://img.shields.io/badge/arXiv-2509.XXXXXX-t?style=flat&logo=arxiv&logoColor=white&color=red
 [arxiv-url]: https://arxiv.org/
 [researchgate-shield-NC]: https://img.shields.io/badge/ResearchGate-Nicolas%20Chatzikiriakos-T?style=flat&logo=researchgate&color=darkgreen
 [researchgate-url-NC]: https://www.researchgate.net/profile/Nicolas-Chatzikiriakos
