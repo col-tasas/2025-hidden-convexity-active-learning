@@ -5,13 +5,13 @@
 [![Webpage][webpage-shield-BS]][webpage-url-BS]
 
 # Hidden Convexity in Active Learning: A Convexified Online Input Design for ARX Systems
-This repository contains the code from our paper "Hidden Convexity in Active Learning: A Convexified Online Input Design for ARX Systems" which can be acessed [here](). 
+This repository contains the code from our paper "Hidden Convexity in Active Learning: A Convexified Online Input Design for ARX Systems" which can be acessed [here](https://arxiv.org/abs/2509.03257). 
 
 If you use this project for academic work, please consider citing our publication 
 
     Chatzikiriakos, N., Song, B., Rank, P., Iannelli, A. (2025). 
     Hidden Convexity in Active Learning: A Convexified Online Input Design for ARX Systems.
-    accepted for CDC 2025, Preprint:arXiv:
+    accepted for CDC 2025, Preprint:arXiv: 2509.03257
 
 ## Installation
 To install all relevant packages execute 
