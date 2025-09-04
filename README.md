@@ -39,7 +39,7 @@ This will run the numerical example, generate the correponding plot and save all
 [webpage-shield-BS]: https://img.shields.io/badge/Webpage-Bowen%20Song-T?style=flat&logo=codementor&color=green
 [webpage-url-BS]: https://www.ist.uni-stuttgart.de/institute/team/Song-00001/
 [arxiv-shield]: https://img.shields.io/badge/arXiv-2509.03257-t?style=flat&logo=arxiv&logoColor=white&color=red
-[arxiv-url]: [https://arxiv.org/](https://arxiv.org/abs/2509.03257)
+[arxiv-url]: https://arxiv.org/abs/2509.03257
 [researchgate-shield-NC]: https://img.shields.io/badge/ResearchGate-Nicolas%20Chatzikiriakos-T?style=flat&logo=researchgate&color=darkgreen
 [researchgate-url-NC]: https://www.researchgate.net/profile/Nicolas-Chatzikiriakos
 
