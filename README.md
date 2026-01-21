@@ -1,17 +1,19 @@
 <!-- PROJECT SHIELDS -->
+[![finalpaper][finalpaper-shield]][finalpaper-url]
 [![arXiv][arxiv-shield]][arxiv-url]
 [![MIT License][license-shield]][license-url]
 [![Webpage][webpage-shield-NC]][webpage-url-NC]
 [![Webpage][webpage-shield-BS]][webpage-url-BS]
 
 # Hidden Convexity in Active Learning: A Convexified Online Input Design for ARX Systems
-This repository contains the code from our paper "Hidden Convexity in Active Learning: A Convexified Online Input Design for ARX Systems" which can be acessed [here](https://arxiv.org/abs/2509.03257). 
+This repository contains the code from our paper "Hidden Convexity in Active Learning: A Convexified Online Input Design for ARX Systems" which can be acessed [here](https://ieeexplore.ieee.org/document/11312601) (Preprint available [here](https://arxiv.org/abs/2509.03257)). 
 
 If you use this project for academic work, please consider citing our publication 
 
-    Chatzikiriakos, N., Song, B., Rank, P., Iannelli, A. (2025). 
-    Hidden Convexity in Active Learning: A Convexified Online Input Design for ARX Systems.
-    accepted for CDC 2025, Preprint:arXiv: 2509.03257
+    N. Chatzikiriakos, B. Song, P. Rank and A. Iannelli, 
+    "Hidden Convexity in Active Learning: A Convexified Online Input Design for ARX Systems," 
+    2025 IEEE 64th Conference on Decision and Control (CDC), Rio de Janeiro, Brazil, 2025, 
+    pp. 63-68, doi: 10.1109/CDC57313.2025.11312601.
 
 ## Installation
 To install all relevant packages execute 
@@ -40,6 +42,8 @@ This will run the numerical example, generate the correponding plot and save all
 [webpage-url-BS]: https://www.ist.uni-stuttgart.de/institute/team/Song-00001/
 [arxiv-shield]: https://img.shields.io/badge/arXiv-2509.03257-t?style=flat&logo=arxiv&logoColor=white&color=red
 [arxiv-url]: https://arxiv.org/abs/2509.03257
+[finalpaper-shield]: https://img.shields.io/badge/IEEE-Paper-T?style=flat&color=blue
+[finalpaper-url]: https://ieeexplore.ieee.org/document/11312601
 [researchgate-shield-NC]: https://img.shields.io/badge/ResearchGate-Nicolas%20Chatzikiriakos-T?style=flat&logo=researchgate&color=darkgreen
 [researchgate-url-NC]: https://www.researchgate.net/profile/Nicolas-Chatzikiriakos
 
